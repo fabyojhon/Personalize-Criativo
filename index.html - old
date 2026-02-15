@@ -1274,25 +1274,19 @@ Seus Arquivos ficarão Disponíveis automaticamente na aba &quot;Meus Pedidos&qu
     <header class="minimal border-bottom py-2">
         <div class="container">
             <div class='d-flex justify-content-start align-items-center'>
-                <div class='back-icon'><a href="www.recastori.com.br/index.html"><i class="bi bi-arrow-left"></i></a>
-                </div>
+                <div class='back-icon'><a href="www.recastori.com.br/"><i class="bi bi-arrow-left"></i></a></div>
 
                 <div class="logo">
-<<<<<<< HEAD
-                    <a
-                    href="www.recastori.com.br/cdn-meloja.nyc3.cdn.digitaloceanspaces.com/stores/uploads/3551642/store/thumb.png">
-                            <img src="www.recastori.com.br/cdn-meloja.nyc3.cdn.digitaloceanspaces.com/stores/uploads/3551642/store/thumb.png"
-                                class="img-fluid" alt="Logotipo Personalize Estudio Criativo">
-                        </a>
-=======
-                    <a href="www.recastori.com.br/index.html">
-                        <img src="https://cdn-meloja.nyc3.cdn.digitaloceanspaces.com/stores/uploads/3551642/conversions/thumb.png"
-                            class="img-fluid" alt="Logotipo Personalize Estudio Criativo">
+                    <a href="www.recastori.com.br/cdn-meloja.nyc3.cdn.digitaloceanspaces.com/stores/uploads/3551642/conversions/thumb.png"
+                        target="_blank" aria-label="Link do texto" style="color: #212529" class="text-decoration-none">
+                        <img
+                            src="www.recastori.com.br/cdn-meloja.nyc3.cdn.digitaloceanspaces.com/stores/uploads/3551642/conversions/thumb.png">
+
+                        class="img-fluid" alt="Logotipo Personalize Estudio Criativo">
                     </a>
->>>>>>> 78095a8 (logo atulização)
                 </div>
 
-                <a href="www.recastori.com.br/index.html">
+                <a href="www.recastori.com.br/">
                     <h1 class="pl-2 mb-0">Personalize Estudio Criativo</h1>
                 </a>
             </div>
@@ -1304,14 +1298,9 @@ Seus Arquivos ficarão Disponíveis automaticamente na aba &quot;Meus Pedidos&qu
             <div class="row justify-content-between">
                 <div class="col-12 col-md-auto">
                     <div class="logo">
-<<<<<<< HEAD
                         <a
-                            href="www.recastori.com.br/index.html">
-                            <img src="www.recastori.com.br/cdn-meloja.nyc3.cdn.digitaloceanspaces.com/stores/uploads/3551642/conversions/thumb.png"
-=======
-                        <a href="www.recastori.com.br/index.html">
-                            <img src="https://cdn-meloja.nyc3.cdn.digitaloceanspaces.com/stores/uploads/3551642/conversions/thumb.png"
->>>>>>> 78095a8 (logo atulização)
+                            href="www.recastori.com.br/cdn-meloja.nyc3.cdn.digitaloceanspaces.com/stores/uploads/3551642/store/thumb.png">
+                            <img src="www.recastori.com.br/cdn-meloja.nyc3.cdn.digitaloceanspaces.com/stores/uploads/3551642/store/thumb.png"
                                 class="img-fluid" alt="Logotipo Personalize Estudio Criativo">
                         </a>
                     </div>
@@ -1357,19 +1346,15 @@ Seus Arquivos ficarão Disponíveis automaticamente na aba &quot;Meus Pedidos&qu
                             </li>
 
                             <li class="nav-item account-nav-item">
-<<<<<<< HEAD
                                 <a
-                                    href="www.recastori.com.br/www.recastori.com.br/conta">
-=======
-                                <a href="www.recastori.com.br/conta">
->>>>>>> 78095a8 (logo atulização)
+                                    href="/home/fabiano/Documentos/PROJETO AUREA CLONE/www.recastori.com.br/www.recastori.com.br/conta">
                                     <i class="bi bi-person"></i>
                                 </a>
                             </li>
 
                             <li class="nav-item account-nav-item">
-                                <a href="www.recastori.com.br/lista-de-desejos" class="pt-1" style="font-size: 20px;"
-                                    aria-label="Lista de desejos">
+                                <a href="/home/fabiano/Documentos/PROJETO AUREA CLONE/www.recastori.com.br/www.recastori.com.br/lista-de-desejos"
+                                    class="pt-1" style="font-size: 20px;" aria-label="Lista de desejos">
                                     <i class="bi bi-heart"></i>
                                 </a>
                             </li>
